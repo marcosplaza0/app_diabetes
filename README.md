@@ -1,4 +1,4 @@
-# Bienvenidos a App Diabetes 1
+# Hi 👋, Bienvenidos a App Diabetes 1
 
 Me llamo Marcos y estoy desarrollando una aplicación móvil para mejorar el control de mi diabetes.
 Me gustaría no solo usar yo la aplicación, sino ayudar a toda la cantidad de gente posible a llevar un control de su diabetes
@@ -17,26 +17,29 @@ bueno y una vida con mas energía, alegría y sin cargar con unas malas glucemia
   - ???
 
 ## Instalación: 
-  - En desarrollo ❌
+  - El programa sigue en desarrollo ❌
 
 ## Uso:
-  - En desarrollo ❌
+  - El programa sigue en desarrollo ❌
 
 ## Créditos:
-  - Marcos: Desarrollador principal
+  - Marcos: Desarrollador principal.
 
 ## Licencia:
   - Sin escoger todavía ❌
 
 ## Como contribuir: 
   - Se podrá contactar conmigo a través de el discord que crearé para la aplicación.
-  - O por mail.
+  - También por mail.
+  - Y por mensajes directos en GitHub.
 
 ## Desarrollo:
   - EL lenguaje de programación escogido es Python.
   - La aplicación está diseñada con Flet, una libraría de Python.
   - He escogido Python y Flet(Flutter) porque llevo poco tiempo programando y las capacidades y curva de aprendizaje que tienen es muy sencilla.
+  - De momento la forma de almacenamiento será con una base de datos sqlite, gracias a el módulo sqlite3 integrado en python.
 
 ## Dudas y Ayuda:
-  - Ante cualquier mejora que se vea en el código, se puede abrir un hilo para hablar sobre ello
-  - Ante cualquier error se seguuría el mismo procedimiento.
+  - Ante cualquier mejora que se vea en el código, se puede abrir un discusión para hablar sobre ello.
+  - Ante cualquier error se seguiría el mismo procedimiento.
+  - Si se necesita contactar conmigo para soporte, se podrá hacer a través del discord que todavía no se encuentra en disposición de uso.
