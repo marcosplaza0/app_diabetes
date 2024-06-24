@@ -16,6 +16,8 @@ bueno y una vida con mas energía, alegría y sin cargar con unas malas glucemia
 
   - ???
 
+## Documentación flet:
+  - https://flet.dev/docs/
 ## Instalación: 
   - El programa sigue en desarrollo ❌
 
